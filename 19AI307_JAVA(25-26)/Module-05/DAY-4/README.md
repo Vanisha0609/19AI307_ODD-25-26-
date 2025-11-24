@@ -64,7 +64,7 @@ public class ThreadInfoExample {
 <img width="794" height="341" alt="image" src="https://github.com/user-attachments/assets/4f6df303-2327-465d-8b8b-88a9a10cf736" />
 
 ## RESULT:
-he program successfully reads the thread name from the user and displays the current thread’s name and priority.
+The program successfully reads the thread name from the user and displays the current thread’s name and priority.
 
-## RESULT:
+
 
