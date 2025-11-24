@@ -11,9 +11,9 @@ To understand why a NullPointerException occurs when no object is created and ho
 ## ALGORITHM :
 1.	Start the program.
 2.	Import the necessary package 'java.util'
-3.Read input from user.
+3. Read input from user.
 
-4.Declare object reference as null.
+4. Declare object reference as null.
 
 5. If input is "init", create the object.
 
@@ -77,3 +77,4 @@ public class NullPointerObjectExample {
 
 ## RESULT:
 The crash happens because obj is null, and you must check obj != null before calling display().
+
