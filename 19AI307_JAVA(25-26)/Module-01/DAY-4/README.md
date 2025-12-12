@@ -56,4 +56,5 @@ class prog{
 
 
 ## RESULT:
+Thus, the program executed successfully and displayed the correct output based on the given input and conditions.
 
